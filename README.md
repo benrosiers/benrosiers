@@ -17,6 +17,10 @@ I build practical software across web projects, automation, game systems, develo
 - [CivicTechTO/civictech.ca](https://github.com/CivicTechTO/civictech.ca) — accessibility fix for a footer navigation landmark
 - [IDLFAC/CyberMots](https://github.com/IDLFAC/CyberMots) — French cybersecurity terminology contribution for `patch / correctif`
 
+## Open source
+
+See [OPEN_SOURCE.md](OPEN_SOURCE.md) for recent contributions and areas I like working on.
+
 ## Projects
 
 - [Solcogito](https://solcogito.com) — practical software tools and workflow infrastructure
