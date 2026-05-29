@@ -1,16 +1,26 @@
-## Hi there 👋
+# Benoit Desrosiers
 
-<!--
-**benrosiers/benrosiers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer from Montreal, Quebec.
 
-Here are some ideas to get you started:
+I build practical software across web projects, automation, game systems, developer tools, and technical documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Open-source contributions
+- Developer tooling
+- Web and automation projects
+- Game development tools and experiments
+- French/English technical documentation
+
+## Recent open-source activity
+
+- [CivicTechTO/civictech.ca](https://github.com/CivicTechTO/civictech.ca) — accessibility fix for a footer navigation landmark
+- [IDLFAC/CyberMots](https://github.com/IDLFAC/CyberMots) — French cybersecurity terminology contribution for `patch / correctif`
+
+## Projects
+
+- [Solcogito](https://solcogito.com) — practical software tools and workflow infrastructure
+
+## Contact
+
+- [benoit@solcogito.com](mailto:benoit@solcogito.com)
